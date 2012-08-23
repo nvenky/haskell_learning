@@ -1,0 +1,21 @@
+:set prompt ghci>
+:set +t
+:set editor mate
+
+let lst=[5,3,3,5,6]
+
+Equals Oper
+
+let a=(1,2,3)
+let b=(1,2,3) 
+a==b
+
+data Male = 
+
+
+Observations:
+1) type synonyms should start with Caps
+2) t
+
+Open Questions
+1) myDrop print function fails - Show not derived
